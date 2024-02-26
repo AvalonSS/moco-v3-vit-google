@@ -1,3 +1,7 @@
+########### update moco v3 , project can init from google vit model
+##model params url can find in vit_model.py 
+
+
 ## MoCo v3 for Self-supervised ResNet and ViT
 
 ### Introduction
